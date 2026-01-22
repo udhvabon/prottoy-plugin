@@ -1,0 +1,23 @@
+# Binaries
+*.zip
+*.exe
+*.dll
+*.so
+*.dylib
+hc-prottoy-plugin
+
+# Build artifacts
+*.o
+*.a
+*.test
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
